@@ -1,17 +1,32 @@
-# app_loja_cha_ta
+# Flutter Product CRUD with SQLite
 
-A new Flutter project.
+## 📱 Sobre o projeto
+Este projeto é um aplicativo Flutter que implementa um sistema CRUD utilizando SQLite para persistência local de dados.
 
-## Getting Started
+O objetivo do projeto é praticar conceitos fundamentais de desenvolvimento mobile com Flutter e manipulação de banco de dados local.
 
-This project is a starting point for a Flutter application.
+## 🚀 Funcionalidades
+✔ Criar produtos  
+✔ Listar produtos  
+✔ Deletar produtos  
+🔄 Atualizar produtos (em desenvolvimento)
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Tecnologias utilizadas
+- Flutter
+- Dart
+- SQLite (sqflite)
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🧠 Conceitos aplicados
+- CRUD
+- Persistência de dados local
+- Organização de projeto Flutter
+- Versionamento com Git e GitHub
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📌 Próximas melhorias
+- Implementar UPDATE de produtos
+- Melhorar interface do usuário
+- Validação de formulário
+- Refatoração com gerenciamento de estado
+
+## 👩‍💻 Desenvolvido por
+Pamela Rocha# Flutter Product CRUD with SQLite
