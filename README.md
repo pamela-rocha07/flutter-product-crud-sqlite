@@ -29,4 +29,4 @@ O objetivo do projeto é praticar conceitos fundamentais de desenvolvimento mobi
 - Refatoração com gerenciamento de estado
 
 ## 👩‍💻 Desenvolvido por
-Pamela Rocha# Flutter Product CRUD with SQLite
+Pamela Rocha
